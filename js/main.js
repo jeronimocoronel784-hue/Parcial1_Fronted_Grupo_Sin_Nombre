@@ -629,7 +629,7 @@ function inicializarAltas() {
   document.getElementById("form-cliente").addEventListener("submit", onSubmitCliente);
 }
 
-/* Ventas e historial (Ejercicio 5 / Fase 5).
+/* Ventas e historial (Ejercicio 5 / Fase 5/ Parte de Joaquin).
    Borrador editable en memoria + confirmación con snapshot histórico.
    Cálculos siempre en números; `toFixed(2)` solo al mostrar.
    Sin `fetch`, sin librerías. Todo dato se inserta
